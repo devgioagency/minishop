@@ -1,0 +1,13 @@
+{
+    "name": "devgio/minishop",
+    "description": "Mini-Shop API Package",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Martin Tomczak",
+            "email": "m.tomczak@devgio.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
